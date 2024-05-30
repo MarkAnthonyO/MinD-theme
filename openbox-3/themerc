@@ -1,0 +1,101 @@
+! MinD-theme 1.0
+
+border.width: 3
+padding.width: 5
+padding.height: 5
+*.justify: left
+*.bg.highlight: 50
+*.bg.shadow:    01
+
+!! Menu
+menu.border.color: #474747
+menu.border.width: 3
+
+menu.items.bg: solid flat
+menu.items.bg.color: #ffffff
+
+menu.items.text.color: #000000
+menu.items.disabled.text.color: #8c8c8c
+
+menu.title.bg: flat
+menu.title.bg.color: #474747
+menu.title.text.color: #ffffff
+menu.title.text.justify: center
+
+menu.items.active.bg: flat
+menu.items.active.bg.color: #474747
+menu.items.active.text.color: #ffb400
+
+menu.overlap: 0
+
+!! Window - Active
+window.active.title.bg: flat
+window.active.title.bg.color: #474747
+
+window.label.text.justify: left
+
+window.active.label.bg: flat
+window.active.label.bg.color: #474747
+window.active.label.text.color: #ffffff
+
+window.*.button.*.bg: flat
+window.*.button.*.pressed.bg: flat
+
+window.active.button.*.hover.bg: flat
+window.active.button.*.hover.bg.color: #474747
+window.active.button.*.hover.image.color: #ffb400
+window.active.button.*.hover.bg.border.color: #474747
+
+window.active.button.*.pressed.bg.color: #474747
+window.active.button.*.pressed.image.color: #ffb400
+window.active.button.*.pressed.bg.border.color: #474747
+
+window.active.button.*.image.color: #ffffff
+window.active.button.*.bg.color: #474747
+window.active.button.disabled.image.color: #737373
+
+window.active.border.color: #474747
+
+window.handle.width: 0
+
+window.client.padding.width: 2
+window.client.padding.height: 2
+window.active.client.color:  #474747
+
+!! Window - Inactive
+window.inactive.title.bg: flat
+window.inactive.title.bg.color: #737373
+
+window.inactive.label.bg: flat
+window.inactive.label.bg.color: #737373
+window.inactive.label.text.color: #ffffff
+
+window.inactive.button.*.bg.color: #737373
+window.inactive.button.*.image.color: #ffffff
+window.inactive.button.*.hover.image.color: #ffb400
+
+window.inactive.button.*.hover.bg: flat
+window.inactive.button.*.pressed.bg.color: #737373
+window.inactive.button.*.pressed.image.color: #ffb400
+window.inactive.button.*.pressed.bg.border.color: #38b3d6
+window.inactive.button.disabled.image.color: #c0c0c0
+
+window.inactive.border.color: #737373
+window.inactive.title.separator.color: #737373
+
+window.inactive.client.color:  #737373
+
+!! Osd
+osd.border.width: 2
+osd.border.color:  #ffffff
+
+osd.bg: flat
+osd.bg.color: #474747
+
+osd.active.label.bg: flat
+osd.active.label.bg.color: #474747
+osd.active.label.text.color: #ffb400
+
+osd.inactive.label.bg: flat
+osd.inactive.label.bg.color: #474747
+osd.inactive.label.text.color: #ffffff
