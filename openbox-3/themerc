@@ -1,15 +1,15 @@
 ! MinD-theme 1.0
 
-border.width: 3
-padding.width: 5
-padding.height: 5
+border.width: 0
+padding.width: 10
+padding.height: 10
 *.justify: left
 *.bg.highlight: 50
-*.bg.shadow:    01
+*.bg.shadow:    00
 
 !! Menu
 menu.border.color: #474747
-menu.border.width: 3
+menu.border.width: 4
 
 menu.items.bg: solid flat
 menu.items.bg.color: #ffffff
@@ -32,7 +32,7 @@ menu.overlap: 0
 window.active.title.bg: flat
 window.active.title.bg.color: #474747
 
-window.label.text.justify: left
+window.label.text.justify: center
 
 window.active.label.bg: flat
 window.active.label.bg.color: #474747
