@@ -31,6 +31,7 @@ menu.overlap: 0
 !! Window - Active
 window.active.title.bg: flat
 window.active.title.bg.color: #474747
+window.active.title.separator.color: #474747
 
 window.label.text.justify: center
 
