@@ -6,7 +6,7 @@ else
   DEST_DIR="$HOME/.themes/"
 fi
 
-echo Installing in "$DEST_DIR"/MinD-theme
+echo Installing in "$DEST_DIR"/MinD-theme for user: "$USER"
 mkdir "$DEST_DIR"/MinD-theme
 cp -r openbox-3/ "$DEST_DIR"/MinD-theme
 echo Done!
